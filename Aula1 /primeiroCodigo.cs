@@ -2,21 +2,32 @@ using System;
 public class Program {
     public static void Main (String[] args) {
 
-        Console.WriteLine ("Digite o valor para o primeiro número: ");
 
-        float num1 = float.Parse(Console.ReadLine());
+        try {
 
-        Console.WriteLine ("\nDigite o valor para o segundo número: ");
+            Console.WriteLine ("Digite o valor para o primeiro número: ");
+            float num1 = float.Parse(Console.ReadLine());
+        
+            Console.WriteLine ("\nDigite o valor para o segundo número: ");
+            float num2 = float.Parse(Console.ReadLine());
 
-        float num2 = float.Parse(Console.ReadLine());
+            calculadora(num1, num2);
+        
+            Console.WriteLine("\nQual o valor do raio: ");
+            
+            float raio = float.Parse(Console.ReadLine());
+            
+            areaCirculo(raio);
 
-        calculadora(num1, num2);
+        } catch (FormatException){
+            
+            Console.WriteLine("Entrada inválida");
+            return;
+        }
+
+        
+
     
-        Console.WriteLine("\nQual o valor do raio: ");
-        
-        float raio = float.Parse(Console.ReadLine());
-        
-        areaCirculo(raio);
     }
 
     static void calculadora(float num1, float num2) {
