@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\duda\cu\bin\Debug\net8.0\cu.exe
+C:\Users\Aluno\Desktop\duda\cu\bin\Debug\net8.0\cu.deps.json
+C:\Users\Aluno\Desktop\duda\cu\bin\Debug\net8.0\cu.runtimeconfig.json
+C:\Users\Aluno\Desktop\duda\cu\bin\Debug\net8.0\cu.dll
+C:\Users\Aluno\Desktop\duda\cu\bin\Debug\net8.0\cu.pdb
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.dll
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\refint\cu.dll
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.pdb
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\cu.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\duda\cu\obj\Debug\net8.0\ref\cu.dll
